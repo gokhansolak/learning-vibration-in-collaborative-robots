@@ -20,4 +20,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean massa est, tinci
 * [Paper](https://ieeexplore.ieee.org/document/8967567)
 
 [![ARQ](QMUL_ARQ_logo.png)](https://www.robotics.qmul.ac.uk/)
+
 [![CRISP](crisp-logo.svg)](https://lorejam.wixsite.com/crisp)
