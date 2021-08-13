@@ -1,4 +1,3 @@
 theme: jekyll-theme-modernist
 title: Haptic exploration of unknown objects<br /> to optimize the grasp stability<br /> during dexterous robotic manipulation
-github:
-  is_project_page: false
+markdown: GFM
