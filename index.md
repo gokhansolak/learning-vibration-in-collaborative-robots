@@ -17,6 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean massa est, tinci
 * [Code](https://github.com/gokhansolak/lfd-experiments-iros2019)
 * [Data](https://github.com/gokhansolak/lfd-experiments-ar2021-data)
 
-[![CRISP](crisp-logo.svg)](https://lorejam.wixsite.com/crisp)
-
-[![ARQ](QMUL_ARQ_logo.png)](https://www.robotics.qmul.ac.uk/)
+| [![CRISP](crisp-logo.svg)](https://lorejam.wixsite.com/crisp) | [![ARQ](QMUL_ARQ_logo.png)](https://www.robotics.qmul.ac.uk/) |
+|--- | --- |
