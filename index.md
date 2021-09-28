@@ -6,7 +6,7 @@ This website is currently incomplete as the paper is under review. It will be up
 
 
 #### Abstract
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean massa est, tincidunt sit amet ex vel, gravida pellentesque orci. Cras vehicula nisi nisl. Duis sed vestibulum sapien, ac rutrum nisi. Aliquam erat volutpat. Etiam nibh urna, varius eu venenatis id, eleifend ac justo. Proin dignissim quis leo eget cursus. Aliquam et nunc eget nunc blandit rutrum. In lobortis venenatis tempor. Donec ut laoreet sem, id laoreet justo. Sed eget commodo felis.
+Dexterous manipulation is challenging because multiple fingers must be coordinated to (i) keep the object in grasp, and (ii) realize the desired object motion, simultaneously. Knowledge of object properties and motion trajectory is required, but often not available in real-world applications.  Although it is possible to grasp and manipulate unknown objects, an uninformed grasp leads to inferior stability, accuracy, and repeatability of the manipulation. Therefore, we propose a method that does not assume any prior information about the object and the motion, but instead extracts the object properties through a novel haptic exploration procedure and learns the motion from demonstration using Dynamical Movement Primitives (DMPs). Using an object-centric approach, we apply the DMPs to dexterous hands for the first time, preserving their generalization capabilities. Our experiments with a four-fingered robot hand show that the haptic exploration improves the grasp stability significantly, permitting an accurate execution of the in-hand object motion. 
 
 ### Authors
 * [Gokhan Solak](https://scholar.google.com/citations?user=yuOV2TQAAAAJ&hl=en)
