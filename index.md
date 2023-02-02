@@ -1,7 +1,7 @@
 
 This website is currently incomplete as the paper is under review. It will be updated after the publication.
 
-| [![Youtube video](youtube-preview.png)](https://www.youtube.com/watch?v=TBF4WNHRPSQ) |
+| [![Youtube video](youtube-preview.png)](https://www.youtube.com/watch?v=ney4Sk2Q5BQ) |
 | :---: |
 
 
