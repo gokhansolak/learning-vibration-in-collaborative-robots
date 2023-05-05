@@ -1,21 +1,19 @@
 
-This website is currently incomplete as the paper is under review. It will be updated after the publication.
-
-| [![Youtube video](youtube-preview.png)](https://www.youtube.com/watch?v=ney4Sk2Q5BQ) |
+| [![Youtube video](youtube-preview.png)](https://www.youtube.com/watch?v=qHECgqK1NOY) |
 | :---: |
 
 
-#### Abstract
-Dexterous manipulation is challenging because multiple fingers must be coordinated to (i) keep the object in grasp, and (ii) realize the desired object motion, simultaneously. Knowledge of object properties and motion trajectory is required, but often not available in real-world applications.  Although it is possible to grasp and manipulate unknown objects, an uninformed grasp leads to inferior stability, accuracy, and repeatability of the manipulation. Therefore, we propose a method that does not assume any prior information about the object and the motion, but instead extracts the object properties through a novel haptic exploration procedure and learns the motion from demonstration using Dynamical Movement Primitives (DMPs). Using an object-centric approach, we apply the DMPs to dexterous hands for the first time, preserving their generalization capabilities. Our experiments with a four-fingered robot hand show that the haptic exploration improves the grasp stability significantly, permitting an accurate execution of the in-hand object motion. 
-
+### Paper URL:
+* [https://doi.org/10.5281/zenodo.7899824](https://zenodo.org/record/7899824)
 ### Authors
-* [Gokhan Solak](https://scholar.google.com/citations?user=yuOV2TQAAAAJ&hl=en)
-* [Lorenzo Jamone](https://scholar.google.com/citations?hl=en&user=glrd-2AAAAAJ)
+* [Gokhan Solak](https://scholar.google.com/citations?user=yuOV2TQAAAAJ)
+* [Arash Ajoudani](https://scholar.google.com/citations?user=1hKOgRoAAAAJ)
+### Abstract
+Vibration suppression is an important skill for future robots that will collaborate with humans in industrial
+settings. The vibration through physical interaction is a common problem in such settings, especially in operations involving hand-held vibrating tools. The existing human-robot collaboration (HRC) works addressing this problem mostly focus on the oscillations caused by the human operator, and suppress them by adapting the admittance parameters. This, however, usually results in stiffer robot behavior and contributes to reducing the overall performance of the task, in particular when impedance planning is a requirement. In this work, we focus on the vibration coming from external sources such as power
+tools and suppress it actively. We learn the vibration using the bandlimited multiple Fourier linear combiner (BMFLC) algorithm and apply it as a feedforward Cartesian force to cancel the vibration. We combine the feedforward force control with variable impedance learning and show that it improves the vibration suppression performance in simulation and real-world experiments. The feedforward approach can suppress the vibration better while keeping a more compliant set of impedance parameters, which is crucial in HRC.
 
-### Links
-* [Paper](paper.md)
-* [Code](https://github.com/gokhansolak/haptic-exploration-for-dexterous-manipulation-2021)
-* [Data](https://doi.org/10.6084/m9.figshare.c.5560167.v2) DOI: 10.6084/m9.figshare.c.5560167.v2
 
-| [![CRISP](crisp-logo.svg)](https://lorejam.wixsite.com/crisp) | [![ARQ](QMUL_ARQ_logo.png)](https://www.robotics.qmul.ac.uk/) |
-|--- | --- |
+
+| [![IIT-HRII](IIT%20logoHRII%20T1%20POS.png)](https://hri.iit.it/) | [![CONCERT Project](concert-logo-lofi.png)](https://concertproject.eu/) | [![CONCERT Project](ICRA-Main-Logo.png)](https://www.icra2023.org/) |
+|--- | --- | --- |
