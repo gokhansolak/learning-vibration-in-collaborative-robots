@@ -4,6 +4,7 @@
 
 
 ### Paper URL:
+* [https://ieeexplore.ieee.org/abstract/document/10161190](https://ieeexplore.ieee.org/abstract/document/10161190)
 * [https://doi.org/10.5281/zenodo.7899824](https://zenodo.org/record/7899824)
 ### Authors
 * [Gokhan Solak](https://scholar.google.com/citations?user=yuOV2TQAAAAJ)
