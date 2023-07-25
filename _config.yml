@@ -1,4 +1,5 @@
 theme: jekyll-theme-modernist
 title: Online Learning and Suppression<br /> of Vibration in Collaborative<br /> Robots with Power Tools
 markdown: GFM
-is_project_page: false
+github:
+  is_project_page: false
